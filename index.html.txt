@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Rap Lab 🎤</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🎤 Rap Lab</h1>
+  <p>Escreva sua barra:</p>
+
+  <input type="text" id="input" placeholder="Digite aqui...">
+
+  <div class="botoes">
+    <button onclick="gerarRimas()">Rimas</button>
+    <button onclick="contarFrase()">Sílabas</button>
+    <button onclick="freestyle()">Freestyle</button>
+  </div>
+
+  <h2 id="tema"></h2>
+  <h3 id="timer"></h3>
+
+  <div id="output"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

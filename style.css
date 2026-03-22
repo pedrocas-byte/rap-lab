@@ -1,0 +1,49 @@
+body {
+  background-color: #0f0f0f;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.botoes {
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #1db954;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #17a74a;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+#tema {
+  margin-top: 20px;
+  color: #1db954;
+}
+
+#timer {
+  font-size: 30px;
+}
