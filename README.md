@@ -1,2 +1,17 @@
-# rap-lab
-I created a tool to help with rap writing.🎤It includes a rhyme generator, syllable counter, and freestyle simulator.  Inspired by the structure of concept albums.
+# Rap Lab 🎤
+
+Ferramenta para escrita de rap com:
+- Gerador de rimas
+- Contador de sílabas
+- Simulador de freestyle
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## Objetivo
+Praticar escrita de rap e desenvolver lógica de programação.
+
+## Link do projeto
+(coloca o link do GitHub Pages aqui)
