@@ -12,6 +12,3 @@ Ferramenta para escrita de rap com:
 
 ## Objetivo
 Praticar escrita de rap e desenvolver lógica de programação.
-
-## Link do projeto
-(coloca o link do GitHub Pages aqui)
